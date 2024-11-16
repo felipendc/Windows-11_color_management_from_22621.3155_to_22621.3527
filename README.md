@@ -5,8 +5,8 @@
 <br />
 
 #### 🔥 TESTED ON:<br />
-💻 **Laptop** Thinkpad X1 Yoga 2nd gen, monitor: **B140HAN03.6**<br />
-💻 **Laptop** Thinkpad T430, monitor: **B140HAN01.3**<br />
+💻 **Laptop** Thinkpad X1 Yoga 2nd gen, display: **B140HAN03.6**<br />
+💻 **Laptop** Thinkpad T430, display: **B140HAN01.3**<br />
 🖥️ **Desktop**, monitor: **Dell U2423H**<br />
 
 <br />
